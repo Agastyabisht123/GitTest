@@ -12,6 +12,7 @@ def Div(num1,num2):
 
 
 num1, num2 = input("Enter two no. separated by , : ").split(",")
+print("Change")
 Add(num1,num2)
 Mul(num1,num2)
 Sub(num1,num2)
